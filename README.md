@@ -21,3 +21,5 @@ Large
 4. The map operation should create a new set of data with the results from step 3.
 5. Sort the results from steps 3 and 4 in order, with the first results being closest to the prediction height.
 6. Filter the results to include only `k` number of top records from the sort in step 5 aka `find the k nearest neighbors`
+7. Count the number of occurrences of each label in the `k` result set and sort these from least to greatest
+8. Retrieve the last value (now the highest count value representing the most frequent observation closest to the `assumption variable`)
