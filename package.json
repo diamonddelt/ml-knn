@@ -1,0 +1,14 @@
+{
+  "name": "knn",
+  "version": "1.0.1",
+  "description": "",
+  "main": "knn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Rasti <rrrasti@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
